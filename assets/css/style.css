@@ -19,15 +19,16 @@ body {
     font-size: 1.3em;
     line-height: 1.5em;
 }
-h1{
-    display:inline;
+#name{
+    display:inline-flex;
     text-transform: uppercase;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
 }
 
 #icon{
     width: 30px;
-    margin: 10px 5px 0 0;
+    margin: 10px 5px 0px 0;
 }
 
 h3 {
@@ -66,10 +67,6 @@ h3 {
     background: #c7c7c7;
 }
 
-#displayAcumulator{
-    text-align: right;
-    height: 40px;
-}
 
 
 
